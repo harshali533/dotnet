@@ -1,0 +1,15 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\bin\Debug\net10.0\SRP.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\bin\Debug\net10.0\SRP.deps.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\bin\Debug\net10.0\SRP.runtimeconfig.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\bin\Debug\net10.0\SRP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\bin\Debug\net10.0\SRP.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\SRP.AssemblyInfoInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\SRP.AssemblyInfo.cs
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\SRP.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\SRP.sourcelink.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\SRP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\refint\SRP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\SRP.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\SRP.genruntimeconfig.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\SRP\obj\Debug\net10.0\ref\SRP.dll

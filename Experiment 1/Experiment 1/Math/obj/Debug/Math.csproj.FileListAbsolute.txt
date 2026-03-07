@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Lab Work\Lab1\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Lab Work\Lab1\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Lab Work\Lab1\Math\bin\Debug\Math.exe.config
+D:\DKTE\dot net\Lab Work\Lab1\Math\bin\Debug\Math.exe
+D:\DKTE\dot net\Lab Work\Lab1\Math\bin\Debug\Math.pdb
+D:\DKTE\dot net\Lab Work\Lab1\Math\obj\Debug\Math.exe
+D:\DKTE\dot net\Lab Work\Lab1\Math\obj\Debug\Math.pdb

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6640B67-D31E-4817-A1E9-20F2C0A5BF20}|ForExa\\ForExa.csproj|d:\\dkte\\dot net\\experiments\\dot-net\\lab1\\forexa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6640B67-D31E-4817-A1E9-20F2C0A5BF20}|ForExa\\ForExa.csproj|solutionrelative:forexa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{645FF7E5-8958-4702-B159-ECB550A90058}|WhileExa\\WhileExa.csproj|d:\\dkte\\dot net\\experiments\\dot-net\\lab1\\whileexa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{645FF7E5-8958-4702-B159-ECB550A90058}|WhileExa\\WhileExa.csproj|solutionrelative:whileexa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B985499A-E18C-4C13-AAAB-852706F9150F}|String\\String.csproj|d:\\dkte\\dot net\\experiments\\dot-net\\lab1\\string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B985499A-E18C-4C13-AAAB-852706F9150F}|String\\String.csproj|solutionrelative:string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB58FEB6-2439-4337-9E9B-1DF1101EF538}|Math\\Math.csproj|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Math\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB58FEB6-2439-4337-9E9B-1DF1101EF538}|Math\\Math.csproj|solutionrelative:Math\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D5E5D8-C3DD-4E1C-93C8-DB7840580C69}|Operators\\Operators.csproj|d:\\dkte\\dot net\\experiments\\dot-net\\lab1\\operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D5E5D8-C3DD-4E1C-93C8-DB7840580C69}|Operators\\Operators.csproj|solutionrelative:operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAE23A6-5641-4315-B4F4-0F66EAB4C0E5}|TypeCasting\\TypeCasting.csproj|d:\\dkte\\dot net\\experiments\\dot-net\\lab1\\typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAE23A6-5641-4315-B4F4-0F66EAB4C0E5}|TypeCasting\\TypeCasting.csproj|solutionrelative:typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010DC8AF-C6A9-4049-B683-9E1653437D03}|VariableDeclaration\\VariableDeclaration.csproj|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\VariableDeclaration\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010DC8AF-C6A9-4049-B683-9E1653437D03}|VariableDeclaration\\VariableDeclaration.csproj|solutionrelative:VariableDeclaration\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Hello\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hello\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Hello2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hello2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B737BA-1E58-4A4C-AB6C-CB085895F18A}|Marks\\Marks.csproj|d:\\dkte\\dot net\\experiments\\dot-net\\lab1\\marks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B737BA-1E58-4A4C-AB6C-CB085895F18A}|Marks\\Marks.csproj|solutionrelative:marks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517446A6-9C49-4908-AE1C-8519F244D656}|Odd or Even\\Odd or Even.csproj|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Odd or Even\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517446A6-9C49-4908-AE1C-8519F244D656}|Odd or Even\\Odd or Even.csproj|solutionrelative:Odd or Even\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A4582C3-3937-4C5E-9A68-B2C7456E4C16}|SwitchExa\\SwitchExa.csproj|D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\SwitchExa\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4582C3-3937-4C5E-9A68-B2C7456E4C16}|SwitchExa\\SwitchExa.csproj|solutionrelative:SwitchExa\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\ForExa\\Program.cs",
+              "RelativeDocumentMoniker": "ForExa\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\ForExa\\Program.cs",
+              "RelativeToolTip": "ForExa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:52:39.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\WhileExa\\Program.cs",
+              "RelativeDocumentMoniker": "WhileExa\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\WhileExa\\Program.cs",
+              "RelativeToolTip": "WhileExa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:50:36.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\String\\Program.cs",
+              "RelativeDocumentMoniker": "String\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\String\\Program.cs",
+              "RelativeToolTip": "String\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:43:28.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Operators\\Program.cs",
+              "RelativeDocumentMoniker": "Operators\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Operators\\Program.cs",
+              "RelativeToolTip": "Operators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:37:34.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\TypeCasting\\Program.cs",
+              "RelativeDocumentMoniker": "TypeCasting\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\TypeCasting\\Program.cs",
+              "RelativeToolTip": "TypeCasting\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:33:53.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\VariableDeclaration\\Program.cs",
+              "RelativeDocumentMoniker": "VariableDeclaration\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\VariableDeclaration\\Program.cs",
+              "RelativeToolTip": "VariableDeclaration\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:18:30.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\SwitchExa\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchExa\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\SwitchExa\\Program.cs",
+              "RelativeToolTip": "SwitchExa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:18:05.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Odd or Even\\Program.cs",
+              "RelativeDocumentMoniker": "Odd or Even\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Odd or Even\\Program.cs",
+              "RelativeToolTip": "Odd or Even\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:17:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Math\\Program.cs",
+              "RelativeDocumentMoniker": "Math\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Math\\Program.cs",
+              "RelativeToolTip": "Math\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:17:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Marks\\Program.cs",
+              "RelativeDocumentMoniker": "Marks\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Marks\\Program.cs",
+              "RelativeToolTip": "Marks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:17:47.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Hello2\\Program.cs",
+              "RelativeDocumentMoniker": "Hello2\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Hello2\\Program.cs",
+              "RelativeToolTip": "Hello2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:17:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Hello\\Program.cs",
+              "RelativeDocumentMoniker": "Hello\\Program.cs",
+              "ToolTip": "D:\\DKTE\\dot net\\Experiments\\Dot-Net\\Lab1\\Hello\\Program.cs",
+              "RelativeToolTip": "Hello\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:17:26.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

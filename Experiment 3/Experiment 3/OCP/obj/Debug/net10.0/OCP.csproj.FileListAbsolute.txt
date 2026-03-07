@@ -1,0 +1,15 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\bin\Debug\net10.0\OCP.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\bin\Debug\net10.0\OCP.deps.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\bin\Debug\net10.0\OCP.runtimeconfig.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\bin\Debug\net10.0\OCP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\bin\Debug\net10.0\OCP.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\OCP.AssemblyInfoInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\OCP.AssemblyInfo.cs
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\OCP.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\OCP.sourcelink.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\OCP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\refint\OCP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\OCP.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\OCP.genruntimeconfig.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\OCP\obj\Debug\net10.0\ref\OCP.dll

@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 2\Experiment 2\Experiment 2\bin\Debug\Experiment 2.exe.config
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 2\Experiment 2\Experiment 2\bin\Debug\Experiment 2.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 2\Experiment 2\Experiment 2\bin\Debug\Experiment 2.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 2\Experiment 2\Experiment 2\obj\Debug\Experiment 2.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 2\Experiment 2\Experiment 2\obj\Debug\Experiment 2.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 2\Experiment 2\Experiment 2\obj\Debug\Experiment 2.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 2\Experiment 2\Experiment 2\obj\Debug\Experiment 2.pdb

@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Lab Work\Lab1\Marks\bin\Debug\Marks.exe.config
+D:\DKTE\dot net\Lab Work\Lab1\Marks\bin\Debug\Marks.exe
+D:\DKTE\dot net\Lab Work\Lab1\Marks\bin\Debug\Marks.pdb
+D:\DKTE\dot net\Lab Work\Lab1\Marks\obj\Debug\Marks.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Lab Work\Lab1\Marks\obj\Debug\Marks.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Lab Work\Lab1\Marks\obj\Debug\Marks.exe
+D:\DKTE\dot net\Lab Work\Lab1\Marks\obj\Debug\Marks.pdb

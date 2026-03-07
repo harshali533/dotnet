@@ -1,0 +1,15 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\bin\Debug\net10.0\DIP.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\bin\Debug\net10.0\DIP.deps.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\bin\Debug\net10.0\DIP.runtimeconfig.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\bin\Debug\net10.0\DIP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\bin\Debug\net10.0\DIP.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\DIP.AssemblyInfoInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\DIP.AssemblyInfo.cs
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\DIP.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\DIP.sourcelink.json
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\DIP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\refint\DIP.dll
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\DIP.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\DIP.genruntimeconfig.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Experiment 3\DIP\obj\Debug\net10.0\ref\DIP.dll

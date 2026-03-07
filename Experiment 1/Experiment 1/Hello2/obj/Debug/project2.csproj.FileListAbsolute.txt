@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Lab Work\Lab1\project2\bin\Debug\project2.exe.config
+D:\DKTE\dot net\Lab Work\Lab1\project2\bin\Debug\project2.exe
+D:\DKTE\dot net\Lab Work\Lab1\project2\bin\Debug\project2.pdb
+D:\DKTE\dot net\Lab Work\Lab1\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Lab Work\Lab1\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Lab Work\Lab1\project2\obj\Debug\project2.exe
+D:\DKTE\dot net\Lab Work\Lab1\project2\obj\Debug\project2.pdb

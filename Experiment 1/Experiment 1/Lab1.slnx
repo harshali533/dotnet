@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="ForExa/ForExa.csproj" Id="b6640b67-d31e-4817-a1e9-20f2c0a5bf20" />
+  <Project Path="Lab1/Lab1.csproj" Id="f3bc796a-d372-407d-a0bd-9d33d81b9006" />
+  <Project Path="Marks/Marks.csproj" Id="90b737ba-1e58-4a4c-ab6c-cb085895f18a" />
+  <Project Path="Math/Math.csproj" Id="bb58feb6-2439-4337-9e9b-1df1101ef538" />
+  <Project Path="Odd or Even/Odd or Even.csproj" Id="517446a6-9c49-4908-ae1c-8519f244d656" />
+  <Project Path="Operators/Operators.csproj" Id="e8d5e5d8-c3dd-4e1c-93c8-db7840580c69" />
+  <Project Path="project2/project2.csproj" Id="dce195b1-16ce-40e3-9bdd-c8970dd4bda0" />
+  <Project Path="String/String.csproj" Id="b985499a-e18c-4c13-aaab-852706f9150f" />
+  <Project Path="SwitchExa/SwitchExa.csproj" Id="5a4582c3-3937-4c5e-9a68-b2c7456e4c16" />
+  <Project Path="TypeCasting/TypeCasting.csproj" Id="0bae23a6-5641-4315-b4f4-0f66eab4c0e5" />
+  <Project Path="VariableDeclaration/VariableDeclaration.csproj" Id="010dc8af-c6a9-4049-b683-9e1653437d03" />
+  <Project Path="WhileExa/WhileExa.csproj" Id="645ff7e5-8958-4702-b159-ecb550a90058" />
+</Solution>

@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Lab Work\Lab1\SwitchExa\bin\Debug\SwitchExa.exe.config
+D:\DKTE\dot net\Lab Work\Lab1\SwitchExa\bin\Debug\SwitchExa.exe
+D:\DKTE\dot net\Lab Work\Lab1\SwitchExa\bin\Debug\SwitchExa.pdb
+D:\DKTE\dot net\Lab Work\Lab1\SwitchExa\obj\Debug\SwitchExa.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Lab Work\Lab1\SwitchExa\obj\Debug\SwitchExa.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Lab Work\Lab1\SwitchExa\obj\Debug\SwitchExa.exe
+D:\DKTE\dot net\Lab Work\Lab1\SwitchExa\obj\Debug\SwitchExa.pdb

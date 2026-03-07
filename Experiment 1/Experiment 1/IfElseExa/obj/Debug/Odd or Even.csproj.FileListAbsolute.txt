@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Lab Work\Lab1\Odd or Even\bin\Debug\Odd or Even.exe.config
+D:\DKTE\dot net\Lab Work\Lab1\Odd or Even\bin\Debug\Odd or Even.exe
+D:\DKTE\dot net\Lab Work\Lab1\Odd or Even\bin\Debug\Odd or Even.pdb
+D:\DKTE\dot net\Lab Work\Lab1\Odd or Even\obj\Debug\Odd or Even.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Lab Work\Lab1\Odd or Even\obj\Debug\Odd or Even.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Lab Work\Lab1\Odd or Even\obj\Debug\Odd or Even.exe
+D:\DKTE\dot net\Lab Work\Lab1\Odd or Even\obj\Debug\Odd or Even.pdb

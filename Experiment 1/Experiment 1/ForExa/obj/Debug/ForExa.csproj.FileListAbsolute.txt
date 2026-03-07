@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\ForExa\bin\Debug\ForExa.exe.config
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\ForExa\bin\Debug\ForExa.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\ForExa\bin\Debug\ForExa.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\ForExa\obj\Debug\ForExa.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\ForExa\obj\Debug\ForExa.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\ForExa\obj\Debug\ForExa.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\ForExa\obj\Debug\ForExa.pdb

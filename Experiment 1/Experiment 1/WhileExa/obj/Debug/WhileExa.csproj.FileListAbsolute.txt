@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\WhileExa\bin\Debug\WhileExa.exe.config
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\WhileExa\bin\Debug\WhileExa.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\WhileExa\bin\Debug\WhileExa.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\WhileExa\obj\Debug\WhileExa.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\WhileExa\obj\Debug\WhileExa.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\WhileExa\obj\Debug\WhileExa.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\WhileExa\obj\Debug\WhileExa.pdb

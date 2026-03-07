@@ -1,0 +1,14 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\bin\Debug\String.exe.config
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\bin\Debug\String.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\bin\Debug\String.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\obj\Debug\String.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\obj\Debug\String.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\String\obj\Debug\String.pdb
+C:\Users\Harshadip\Downloads\Experiment 1\Experiment 1\String\bin\Debug\String.exe.config
+C:\Users\Harshadip\Downloads\Experiment 1\Experiment 1\String\bin\Debug\String.exe
+C:\Users\Harshadip\Downloads\Experiment 1\Experiment 1\String\bin\Debug\String.pdb
+C:\Users\Harshadip\Downloads\Experiment 1\Experiment 1\String\obj\Debug\String.csproj.AssemblyReference.cache
+C:\Users\Harshadip\Downloads\Experiment 1\Experiment 1\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\Harshadip\Downloads\Experiment 1\Experiment 1\String\obj\Debug\String.exe
+C:\Users\Harshadip\Downloads\Experiment 1\Experiment 1\String\obj\Debug\String.pdb

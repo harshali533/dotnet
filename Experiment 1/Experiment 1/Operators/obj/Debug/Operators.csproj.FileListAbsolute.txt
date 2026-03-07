@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\Operators\bin\Debug\Operators.exe.config
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\Operators\bin\Debug\Operators.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\Operators\bin\Debug\Operators.pdb
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\Operators\obj\Debug\Operators.exe
+D:\DKTE\dot net\Experiments\Dot-Net\Lab1\Operators\obj\Debug\Operators.pdb

@@ -1,0 +1,7 @@
+D:\DKTE\dot net\Lab Work\Lab1\VariableDeclaration\bin\Debug\VariableDeclaration.exe.config
+D:\DKTE\dot net\Lab Work\Lab1\VariableDeclaration\bin\Debug\VariableDeclaration.exe
+D:\DKTE\dot net\Lab Work\Lab1\VariableDeclaration\bin\Debug\VariableDeclaration.pdb
+D:\DKTE\dot net\Lab Work\Lab1\VariableDeclaration\obj\Debug\VariableDeclaration.csproj.AssemblyReference.cache
+D:\DKTE\dot net\Lab Work\Lab1\VariableDeclaration\obj\Debug\VariableDeclaration.csproj.CoreCompileInputs.cache
+D:\DKTE\dot net\Lab Work\Lab1\VariableDeclaration\obj\Debug\VariableDeclaration.exe
+D:\DKTE\dot net\Lab Work\Lab1\VariableDeclaration\obj\Debug\VariableDeclaration.pdb
