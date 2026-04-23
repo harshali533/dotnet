@@ -1,0 +1,27 @@
+@model ExpenseTracker.Models.Expense
+
+<div class="container mt-5">
+    <div class="card p-4 shadow">
+        <h3>Edit Expense</h3>
+
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="Id" />
+
+            <div class="mb-3">
+                <input asp-for="Title" class="form-control" />
+            </div>
+
+            <div class="mb-3">
+                <input asp-for="Amount" class="form-control" />
+            </div>
+
+            
+
+            <div class="mb-3">
+                <input asp-for="Date" type="date" class="form-control" />
+            </div>
+
+            <button class="btn btn-success">Update</button>
+        </form>
+    </div>
+</div>

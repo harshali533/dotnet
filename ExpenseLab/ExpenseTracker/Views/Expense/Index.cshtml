@@ -1,0 +1,70 @@
+@model List<ExpenseTracker.Models.Expense>
+
+<div class="container mt-4">
+
+    <h2 class="text-center mb-4">💰 My Wallet</h2>
+
+    <!-- SUMMARY CARDS -->
+  <div class="row text-center mb-4">
+
+    <div class="col-md-4">
+        <div class="card p-3 shadow-sm border-0" style="background:#fdecea;">
+            <h6 class="text-muted">Spent</h6>
+            <h3 style="color:#c0392b;">₹ @ViewBag.Spent</h3>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card p-3 shadow-sm border-0" style="background:#eafaf1;">
+            <h6 class="text-muted">Received</h6>
+            <h3 style="color:#27ae60;">₹ @ViewBag.Received</h3>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card p-3 shadow-sm border-0" style="background:#eef2f7;">
+            <h6 class="text-muted">Balance</h6>
+            <h3 style="color:#2c3e50;">₹ @ViewBag.Balance</h3>
+        </div>
+    </div>
+
+</div>
+
+    <!-- ADD BUTTON -->
+    <div class="text-end mb-3">
+        <a class="btn btn-primary" href="/Expense/Create">+ Add Transaction</a>
+    </div>
+
+    <!-- TRANSACTION HISTORY -->
+    <div class="card shadow p-3">
+        <h5 class="mb-3">Transaction History</h5>
+
+        @foreach (var item in Model)
+        {
+            <div class="d-flex justify-content-between border-bottom p-2">
+
+                <div>
+                    <strong>@item.Title</strong><br />
+                    <small>@item.Date.ToShortDateString()</small>
+                </div>
+
+                <div class="text-end">
+     @if(item.Type == "Spent")
+{
+    <span style="color:#c0392b; font-weight:600;">- ₹ @item.Amount</span>
+}
+else
+{
+    <span style="color:#27ae60; font-weight:600;">+ ₹ @item.Amount</span>
+}
+                    <br />
+                    <a href="/Expense/Edit/@item.Id" class="text-warning">Edit</a> |
+                    <a href="/Expense/Delete/@item.Id" class="text-danger">Delete</a>
+                </div>
+
+            </div>
+        }
+
+    </div>
+
+</div>
