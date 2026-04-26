@@ -1,5 +1,6 @@
 using CRUD_Operations.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace CRUD_Operations.Controllers
@@ -12,12 +13,14 @@ namespace CRUD_Operations.Controllers
 
         public IActionResult Index()
         {
-            List<Student> slist = sb.Students.ToList();
+            // JOIN operation using Include
+            List<Student> slist = sb.Students.Include(s => s.Department).ToList();
             return View(slist);
         }
 
         public IActionResult Create()
         {
+            ViewBag.Departments = sb.Departments.ToList();
             return View();
         }
 
@@ -29,6 +32,7 @@ namespace CRUD_Operations.Controllers
         }
         public IActionResult Edit(int id)
         {
+            ViewBag.Departments = sb.Departments.ToList();
             Student s1 = sb.Students.Find(id);
             return View(s1);
         }
@@ -37,6 +41,7 @@ namespace CRUD_Operations.Controllers
             Student s1 = sb.Students.Find(s.Id);
             s1.Name = s.Name;
             s1.CourseName = s.CourseName;
+            s1.DepartmentId = s.DepartmentId;
             sb.SaveChanges();
             return Redirect("/Home/Index");
         }

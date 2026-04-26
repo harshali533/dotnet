@@ -1,4 +1,4 @@
-﻿@model List<CRUD_Operations.Models.Student>
+@model List<CRUD_Operations.Models.Student>
 
 <html>
 <head>
@@ -12,6 +12,7 @@
         <th>Id</th>
         <th>Name</th>
         <th>CourseName</th>
+        <th>Department</th>
         </thead>
         @foreach (var item in Model)
         {
@@ -19,6 +20,7 @@
                 <td>@item.Id</td>
                 <td>@item.Name</td>
                 <td>@item.CourseName</td>
+                <td>@(item.Department?.DeptName ?? "N/A")</td>
                 <td>
                     <a href="/Home/Edit/@item.Id">Edit</a>
                 </td>
